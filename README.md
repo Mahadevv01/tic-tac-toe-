@@ -62,6 +62,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 Project Link: [https://github.com/mahadevv01/tic-tac-toe-](https://github.com/mahadevv01/tic-tac-toe-)
-```
 
-Feel free to customize the sections as per your project's specifics. If you need any more details or modifications, let me know!
