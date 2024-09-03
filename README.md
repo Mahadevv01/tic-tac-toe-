@@ -56,6 +56,7 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Request
 
 ## License
+This project is licensed under the MIT License.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
